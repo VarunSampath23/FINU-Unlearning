@@ -1,6 +1,6 @@
 # FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning
 
-This code is official implementation for the paper *"FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning".
+This code is official implementation for the paper *"FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning"*.
 
 By Varun Sampath Kumar, Esmaeil S Nadimi, Vinay Chakravarthi Gogineni
 
