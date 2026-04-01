@@ -1,0 +1,13 @@
+dataset: cifar100
+forget_type: class
+forget_class: 1
+model_name: ResNet18
+method: FINU
+batch_size: 256
+epochs: 5
+lr: 0.00002
+topk_min: 5
+topk_max: 15
+delta_reg: 1.0
+output_dir: results/cifar100_class_FUN
+seed: 42
