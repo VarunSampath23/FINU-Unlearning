@@ -18,7 +18,14 @@ Models supported:
 Metrics Supported:
 - Accuracy
 - Membership Inference Attack (MIA)
-- 
+
+Methods Supported:
+- Retraining
+- Random Labelling
+- BDSH [Chen et al CVPR 2023]
+- JiT [Jack Foster et al TMLR 2025]
+- FINU [Proposed method]
+
 
 
 
