@@ -4,8 +4,6 @@ This code is official implementation for the paper *"FINU: Fisher-Informed Noise
 
 By Varun Sampath Kumar, Esmaeil S Nadimi, Vinay Chakravarthi Gogineni
 
-**FINU** = Adaptive Fisher Layerwise Mask + Learned Additive Noise (the proposed method).
-
 Supports:
 - Class-level unlearning (CIFAR-100, ImageNet)
 - Subclass unlearning (CIFAR Super-20)
