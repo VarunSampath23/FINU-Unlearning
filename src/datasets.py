@@ -1,7 +1,7 @@
 """
 src/datasets.py
 
-Handles all dataset loading, transformations, and forget/retain splitting
+Handles dataset loading, transformations, and forget/retain splitting
 for Class, Subclass, and Sample unlearning on CIFAR-100, CIFAR Super-20, and ImageNet.
 """
 
