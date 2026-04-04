@@ -1,7 +1,5 @@
 """
 src/main.py
-
-Main entry point for running machine unlearning experiments with FUN and baselines.
 Supports:
 - Class unlearning
 - Subclass unlearning  
