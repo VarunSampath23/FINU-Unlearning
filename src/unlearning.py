@@ -1,7 +1,7 @@
 """
 src/unlearning.py
 
-All unlearning methods for the FUN framework:
+All unlearning methods for the FINU framework:
 - FINU (Proposed)
 - Random Labelling
 - JiT  / Boundary Shrink (BDSH)
